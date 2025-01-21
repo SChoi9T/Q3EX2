@@ -1,0 +1,22 @@
+	* {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	body {
+		background-image: url(background.jpg);
+		background-size: cover;
+	}
+
+	hr {
+		border: 3px dotted #000000;
+	}
+
+	.container {
+		color: #FFFFFF;
+		text-shadow: 2px 2px 6px #000000;
+		background-color: #FFF564;
+		text-align: center;
+		padding: 30px;
+		border-radius: 20px;
+	}
